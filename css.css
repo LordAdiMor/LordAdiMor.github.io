@@ -8,14 +8,16 @@ body
   text-align: center;
   color: dimgray;
   font-weight: 900;
+  font-size: 30px;
 }
 .txt
 {
   color: dimgray;
+  font-size: 20px;
 }
 .mng
 {
   color: dimgray;
-  font-size: 18.72px;
+  font-size: 25px;
   font-weight: bold;
 }
