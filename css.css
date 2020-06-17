@@ -1,9 +1,21 @@
 body
 {
   background-color: whitesmoke;
+  font-family: alef;
 }
 .nag
 {
   text-align: center;
   color: dimgray;
+  font-weight: 900;
+}
+.txt
+{
+  color: dimgray;
+}
+.mng
+{
+  color: dimgray;
+  font-size: 1.17em;
+  font-weight: bold;
 }
