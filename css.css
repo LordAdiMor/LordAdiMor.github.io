@@ -21,3 +21,27 @@ body
   font-size: 25px;
   font-weight: bold;
 }
+a:link
+{
+  color: dimgray;
+  font-size: 20px;
+  text-decoration: none;
+}
+a:visited
+{
+  color: dimgray;
+  font-size: 20px;
+  text-decoration: none;
+}
+a:hover
+{
+  color: dimgray;
+  font-size: 20px;
+  text-decoration: none;
+}
+a:active
+{
+  color: dimgray;
+  font-size: 20px;
+  text-decoration: none;
+}
