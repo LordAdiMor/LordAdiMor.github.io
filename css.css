@@ -25,23 +25,23 @@ a:link
 {
   color: dimgray;
   font-size: 20px;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:visited
 {
   color: dimgray;
   font-size: 20px;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover
 {
   color: dimgray;
   font-size: 20px;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:active
 {
   color: dimgray;
   font-size: 20px;
-  text-decoration: none;
+  text-decoration: underline;
 }
